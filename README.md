@@ -1,4 +1,4 @@
-# Q-A
+# Gen-AI Knowledge Assistant
 
 # GenAI Bot using Google PaLM API
 
